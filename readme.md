@@ -1,6 +1,6 @@
 # DOCUMENTS I USE
 
-1. For this work i've really be inspire by  the work  of Evan Fung [https://github.com/EvanFung/FEND-project-3-arcade] wich i got on his Github.I did understand how he wrote his code and i've been muchly inspired by his work
+1. For this work i've really been inspire by  the work  of Evan Fung [https://github.com/EvanFung/FEND-project-3-arcade] wich i got on his Github.I did understand how he wrote his code and i've been muchly inspired by his work
 
 2. You tube channel of Ryan Waite wich was about the third project of the front end nanodegree
 
