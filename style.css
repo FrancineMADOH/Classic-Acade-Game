@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+	background-color: lightgrey;
+	font-family: cursive;
+}
+h1{
+	color: blueviolet;
+}
+h3,p{
+	color: rgb(161, 32, 103);
+}
+
+/*we provide style for the menu bar*/
+
+.menu {
+	width: 600PX;
+	height:40px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 20px;
+}
